@@ -6,7 +6,7 @@ from MathOperations.nthRoot import nthRoot
 
 
 class Standard_Deviation:
-
+u
     @staticmethod
     def deviation_Calculator(data):
         newdata = []
